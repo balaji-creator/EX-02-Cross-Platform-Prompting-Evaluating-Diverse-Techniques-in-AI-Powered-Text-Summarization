@@ -21,8 +21,8 @@ User experience
 ## Algorithm
 
 ##output
-<img width="1121" height="862" alt="Screenshot 2025-10-22 175150" src="https://github.com/user-attachments/assets/1da8f22c-f1ea-494e-bf86-723c7c06013f" />
-<img width="1125" height="828" alt="Screenshot 2025-10-22 175128" src="https://github.com/user-attachments/assets/0d3adfef-fd1b-445e-86f9-7b2ecaaab2a7" />
+<img width="1125" height="828" alt="Screenshot 2025-10-22 175128" src="https://github.com/user-attachments/assets/ccc098b9-7a02-43a0-9bd6-d99195d687ac" />
+<img width="1121" height="862" alt="Screenshot 2025-10-22 175150" src="https://github.com/user-attachments/assets/d3c146c3-c768-458d-a4eb-c2f929a8d183" />
 
 
 ## Result
