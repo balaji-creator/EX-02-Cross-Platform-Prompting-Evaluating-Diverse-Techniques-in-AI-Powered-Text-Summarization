@@ -26,5 +26,5 @@ User experience
 
 
 ## Result
-
+The experiment successfully evaluated cross-platform summarization techniques and demonstrated the effect of diverse prompting strategies on AI-generated summaries.
 
